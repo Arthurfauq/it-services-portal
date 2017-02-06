@@ -37,6 +37,10 @@ If a Realm such as the following is present, comment it and add the new JDBCReal
 <Realm className="org.apache.catalina.realm.UserDatabaseRealm" resourceName="UserDatabase" />
 ```
 
+### Connecting Tomcat to MySQL database
+
+Finally, to connect to the database using the JDBC driver, the [mysql-connector-java-5.1.40-bin.jar](https://github.com/arthurfauq/it-services-portal/blob/master/mysql-connector-java-5.1.40-bin.jar) file must be added to the *$CATALINA_HOME/lib* directory, where CATALINA_HOME represents your Apache Tomcat installation folder.
+
 
 ## Instructions for use
 
