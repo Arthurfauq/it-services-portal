@@ -6,7 +6,7 @@ Web application of an IT issue reporting portal. Third assignment for the SENG 2
 This is a J2E application that runs with Apache Tomcat and MySQL.
 
 ### Database configuration
-In MySQL, create a database called **it-portal-db**. Import the [it-portal-db.sql](http://www.example.com/) file in the database to create the tables. 
+In MySQL, create a database called **it-portal-db**. Import the [it-portal-db.sql](https://github.com/arthurfauq/it-services-portal/blob/master/it-portal.sql) file in the database to create the tables. 
 
 Find the [context.xml](https://github.com/arthurfauq/it-services-portal/blob/master/WebContent/META-INF/context.xml) file located in the META-INF folder and replace the connection details (*username* and *password*) with yours. 
 
