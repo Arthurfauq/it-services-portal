@@ -40,13 +40,4 @@ is present, comment it and add the new JDBCRealm above.
 
 ## Instructions for use
 
-Two users have been added in the database: 
-
-* Username: user
-* Password: user
-* Role: user
-
-
-* Username: staff
-* Password: staff
-* Role: staff
+Two users have been added in the database: **user** and **staff**, with both respectively the same username and password.
