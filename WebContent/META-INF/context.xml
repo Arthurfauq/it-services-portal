@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Context>
 	<Resource name="it-portal-db" auth="container" type="javax.sql.DataSource"
-		maxActive="100" maxIdle="30" maxWait="10000" username="root" password="p4ssw0rdS"
+		maxActive="100" maxIdle="30" maxWait="10000" username="XXX" password="XXX"
 		driverClassName="com.mysql.jdbc.Driver" url="jdbc:mysql://127.0.0.1:3306/it-portal-db" />
 </Context>
