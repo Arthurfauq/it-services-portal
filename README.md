@@ -13,7 +13,9 @@ Find the [context.xml](https://github.com/arthurfauq/it-services-portal/blob/mas
 The database works with localhost:3306, and the authentication works with a form-based authentication, the users and roles being defined in the database.
 
 ### Server configuration
-The project runs with Apache Tomcat 8 and was created with Eclipse Neon.
+The project runs with Apache Tomcat 8 and was created with Eclipse.
+
+Please check [this link](https://tomcat.apache.org/download-80.cgi) to download and install Apache Tomcat 8 on your computer.
 
 Open Eclipse and create a new Apache Tomcat 8 server. To specify which authentication realm the server must use, open the **server.xml** file inside the Tomcat server and include the following (please read below where to paste this) :
  
