@@ -1,5 +1,5 @@
 # IT Services Portal
-Web application of an IT issue reporting portal. Third assignment for the SENG 2050 course at the University of Newcastle, Australia.
+J2E web application of an IT issue reporting portal. Third assignment for the SENG 2050 course at the University of Newcastle, Australia.
 
 
 ## Setup procedure
