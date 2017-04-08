@@ -47,3 +47,17 @@ Finally, to connect to the database using the JDBC driver, the [mysql-connector-
 ## Instructions for use
 
 Two users have been added in the database: **user** and **staff**, with both respectively the same username and password.
+
+## Screenshots 
+### Login page
+![IT Services Portal - Login page](https://github.com/arthurfauq/it-services-portal/blob/master/screenshots/it-portal-login.jpg
+)
+
+### Home page
+![IT Services Portal - Home page](https://github.com/arthurfauq/it-services-portal/blob/master/screenshots/it-portal-home.jpg
+)
+
+### Profile page
+![IT Services Portal - Profile page](https://github.com/arthurfauq/it-services-portal/blob/master/screenshots/it-portal-profile.jpg
+)
+
